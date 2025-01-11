@@ -1,8 +1,0 @@
-welcome to my first repo
-learning git is going well so far
-the third line.
-<<<<<<< HEAD
-its sunny outside today
-=======
-i added this line in update-readme branch.
->>>>>>> update-readme
